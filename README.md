@@ -2,7 +2,7 @@
 
 Traffice Sign Recognition Using Computer Vision and Convolution Neural Networks 
 
-###Installations:
+### Installations:
 This project requires Python and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
