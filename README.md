@@ -12,8 +12,12 @@ This project requires Python and the following Python libraries installed:
 - [OpenCV Python](https://pypi.org/project/opencv-python/)
 - [Tensorflow](https://www.tensorflow.org/install/pip)
 
-You can install all the required python libraries from the requirements.txt using following command
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has some of the above packages.
+
+You can install all the required python packages from the requirements.txt using following command
 
 ```bash
 pip install -r requirements.txt
 ```
+
+
