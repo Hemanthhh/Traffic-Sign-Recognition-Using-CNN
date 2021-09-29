@@ -1,6 +1,7 @@
 # Traffic-Sign-Recognition-Using-CNN
 
-Traffice Sign Recognition Using Computer Vision and Convolution Neural Networks 
+### Introduction:
+The main purpose of this project is to create a real time road sign recognition application.
 
 ### Installations:
 This project requires Python and the following Python libraries installed:
@@ -14,7 +15,7 @@ This project requires Python and the following Python libraries installed:
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has some of the above packages.
 
-You can install all the required python packages from the requirements.txt using following command
+You can clone the repository and install all the required python packages from the requirements.txt using following command
 
 ```bash
 pip install -r requirements.txt
