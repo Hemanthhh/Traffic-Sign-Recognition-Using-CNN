@@ -122,7 +122,7 @@ def equalize(img):
 
 def preprocessing(img):
     img = grayscale(img)     # CONVERT TO GRAYSCALE
-    img = equalize(img)      # STANDARDIZE THE LIGHTING IN AN IMAGE
+    img = equalize(img)      # HISTOGRAM EQUALIZATION IMPROVES THE CONTRAST IN AN IMAGE, TO MAKE IT CLEARER
     img = img/255            # TO NORMALIZE VALUES BETWEEN 0 AND 1 INSTEAD OF 0 TO 255
     return img
 
