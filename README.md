@@ -34,7 +34,10 @@ Run the real time traffic sign recognition application using following command.
 ```bash
 python test.py
 ```
+### Result
 
+<img width="752" alt="Screen Shot 2021-10-04 at 9 33 58 AM" src="https://user-images.githubusercontent.com/33321649/135860879-6b93c575-2f54-4978-a4d7-4d1adb2a10ff.png">
+The Application will output the predicted traffic sign class value, class name and probability of predicted class.
 
 
 
